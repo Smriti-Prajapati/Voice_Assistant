@@ -1,10 +1,10 @@
-# Amigo Voice Assistant 🎙️🤖
+# Amigo Voice Assistant 
 
 Amigo is a **Python-based personal voice assistant** that can listen, recognize, and respond to your commands in real-time. It leverages **Vosk Speech Recognition**, **pyttsx3 for text-to-speech**, and various APIs to provide a wide range of features like Wikipedia search, Google search, weather updates, jokes, time/date announcements, and more.
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Speech Recognition**: Uses [Vosk](https://alphacephei.com/vosk/) for offline speech-to-text.
 * **Text-to-Speech**: Converts responses into natural speech using `pyttsx3`.
@@ -19,7 +19,7 @@ Amigo is a **Python-based personal voice assistant** that can listen, recognize,
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python 3.x**
 * [Vosk](https://pypi.org/project/vosk/) – Offline speech recognition
@@ -33,7 +33,7 @@ Amigo is a **Python-based personal voice assistant** that can listen, recognize,
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Amigo-Voice-Assistant/
@@ -44,7 +44,7 @@ Amigo-Voice-Assistant/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the Repository
 
@@ -79,7 +79,7 @@ NEWS_API_KEY = "your_newsapi_key"  # Optional if you extend news feature
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the assistant:
 
@@ -106,7 +106,7 @@ Now, speak any supported command like:
 
 ---
 
-## 📋 Example Commands
+## Example Commands
 
 | Command                | Action                          |
 | ---------------------- | ------------------------------- |
@@ -122,7 +122,7 @@ Now, speak any supported command like:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Integration with **real-time News API** for live headlines.
 * Adding **music playback** via Spotify or YouTube API.
@@ -132,7 +132,7 @@ Now, speak any supported command like:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Developed by **Smriti Prajapati**
 *Personal Voice Assistant Project — "Amigo"*
